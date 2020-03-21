@@ -45,6 +45,4 @@ class ContaController {
         elementoP.appendChild(botaoApagar);
         document.body.appendChild(elementoP);
     }
-
-
-}
+	}

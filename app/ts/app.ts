@@ -13,5 +13,5 @@
 
 // cb1.creditar(100);
 // console.log('Conta Bonificada: ' + cb1.saldo);
-const clientes = new Clintes();
-console.log(clientes.listar());
+const clienteController = new ClienteController();
+clienteController.listar();
